@@ -1,4 +1,4 @@
-# Foundation for Sites Template
+#Foundation And Sass Mockup
 
 
 ## Installation
@@ -29,10 +29,6 @@ The CLI will prompt you to give your project a name. The template will be downlo
 ### Manual Setup
 
 To manually set up the template, first download it with Git:
-
-```bash
-git clone https://github.com/zurb/foundation-sites-template projectname
-```
 
 Then open the folder in your command line, and install the needed dependencies:
 
