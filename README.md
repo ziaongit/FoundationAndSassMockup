@@ -1,5 +1,5 @@
 # Foundation And Sass Mockup
-
+This is a customized Foundation Mockup can be used for any startup business, which include all the necessary features.
 ## Installation
 
 To use this template, your computer needs:
