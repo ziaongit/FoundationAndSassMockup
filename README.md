@@ -1,6 +1,5 @@
 #Foundation And Sass Mockup
 
-
 ## Installation
 
 To use this template, your computer needs:
@@ -10,21 +9,6 @@ To use this template, your computer needs:
 
 This template can be installed with the Foundation CLI, or downloaded and set up manually.
 
-### Using the CLI
-
-Install the Foundation CLI with this command:
-
-```bash
-npm install foundation-cli --global
-```
-
-Use this command to set up a blank Foundation for Sites project with this template:
-
-```bash
-foundation new --framework sites --template basic
-```
-
-The CLI will prompt you to give your project a name. The template will be downloaded into a folder with this name.
 
 ### Manual Setup
 
